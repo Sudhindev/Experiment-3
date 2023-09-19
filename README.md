@@ -79,8 +79,8 @@ package com.example.ex2;
 import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Color;
 import android.os.Bundle;
-8/30/23, 9:04 AM Anuayshh/GUI-Components
-https://github.com/Anuayshh/GUI-Components 3/7
+
+
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
